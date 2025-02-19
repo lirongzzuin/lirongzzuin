@@ -43,9 +43,9 @@
 ---
 
 ## 📬 연락 방법 (Contact)
-- 📧 **이메일 (Email):** [younggyun12@hotmail.com](mailto:younggyun12@hotmail.com)  
-- 💼 **링크드인 (LinkedIn):** [https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-- 🌐 **Notion / Resume :** [https://swamp-force-6e6.notion.site/0d58c5939dba47c4813f5c47bc1f128e](https://swamp-force-6e6.notion.site/0d58c5939dba47c4813f5c47bc1f128e)  
+- 📧 **이메일 (Email):** [Email_to_me](mailto:younggyun12@hotmail.com)  
+- 💼 **링크드인 (LinkedIn):** [LinkedIn_URL](https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- 🌐 **Notion / Resume :** [Notion_Resume](https://swamp-force-6e6.notion.site/0d58c5939dba47c4813f5c47bc1f128e)  
 
 🔥 **함께 성장하며 발전해 나가요!** 🚀  
 
@@ -92,8 +92,8 @@ I also believe in **continuous learning and keeping track of my progress through
 ---
 
 ### 📬 **Contact**
-- 📧 **Email:** [younggyun12@hotmail.com](mailto:younggyun12@hotmail.com) 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-- 🌐 **Notion / Resume:** [https://swamp-force-6e6.notion.site/0d58c5939dba47c4813f5c47bc1f128e](https://swamp-force-6e6.notion.site/0d58c5939dba47c4813f5c47bc1f128e)  
+- 📧 **Email:** [Email_to_me](mailto:younggyun12@hotmail.com) 
+- 💼 **LinkedIn:** [LinkedIn_URL](https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- 🌐 **Notion / Resume:** [Notion_Resume](https://swamp-force-6e6.notion.site/0d58c5939dba47c4813f5c47bc1f128e)  
 
 🔥 **Let's connect and grow together!** 🚀  
