@@ -24,6 +24,7 @@
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/jpa-%2320232a.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Cordova](https://img.shields.io/badge/apache%20cordova-%2355524F.svg?style=for-the-badge&logo=apachecordova&logoColor=white)
 
 ### 🔹 **데이터베이스 (Database)**
@@ -73,6 +74,7 @@ I also believe in **continuous learning and keeping track of my progress through
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/jpa-%2320232a.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Cordova](https://img.shields.io/badge/apache%20cordova-%2355524F.svg?style=for-the-badge&logo=apachecordova&logoColor=white)
 
 #### 🔹 **Database**
