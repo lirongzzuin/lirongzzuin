@@ -59,7 +59,7 @@ Kafka, Redis, WebSocket, JWT 인증 기반 구조를 설계하고 적용한 다�
 ## 📬 연락 방법 (Contact)
 - 📧 **이메일:** [younggyun12@hotmail.com](mailto:younggyun12@hotmail.com)
 - 💼 **LinkedIn:** [LinkedIn 프로필](https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6)
-- 🌐 **Notion / Resume:** [Notion 포트폴리오](https://swamp-force-6e6.notion.site/0d58c5939dba47c4813f5c47bc1f128e)
+- 🌐 **Notion / Resume:** [Notion 포트폴리오]([https://swamp-force-6e6.notion.site/0d58c5939dba47c4813f5c47bc1f128e](https://swamp-force-6e6.notion.site/Developer-YG-s-289e71bb7258468fb045b6d70b54eb10?pvs=4))
 
 🔥 **함께 성장하며 실질적인 가치를 만들어가는 개발자가 되겠습니다.** 🚀
 
@@ -84,7 +84,7 @@ Currently, I'm preparing for a career move to a top-tier IT company or a promisi
 ### 📬 Contact
 - 📧 [Email](mailto:younggyun12@hotmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6)
-- 🌐 [Notion Portfolio](https://swamp-force-6e6.notion.site/0d58c5939dba47c4813f5c47bc1f128e)
+- 🌐 [Notion Portfolio]([https://swamp-force-6e6.notion.site/0d58c5939dba47c4813f5c47bc1f128e](https://swamp-force-6e6.notion.site/Developer-YG-s-289e71bb7258468fb045b6d70b54eb10?pvs=4))
 
 🔥 Let’s collaborate and build impactful products together!
 
