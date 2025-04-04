@@ -51,6 +51,7 @@ Kafka, Redis, WebSocket, JWT 인증 기반 구조를 설계하고 적용한 다�
 
 ## 📊 GitHub 활동 (GitHub Stats)
 ![lirongzzuin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lirongzzuin&show_icons=true&theme=gruvbox)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lirongzzuin&layout=compact&theme=gruvbox_light&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
