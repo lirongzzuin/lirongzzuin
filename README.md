@@ -1,4 +1,4 @@
-# 👋 이영균 | Backend Developer with Real-Time System Focus
+# 👋 이영균 | Backend Developer
 
 ### 🇰🇷 한국어 | [🇺🇸 English](#-english-version)
 
@@ -23,7 +23,7 @@
 ## 💡 주요 사이드 프로젝트
 
 | 프로젝트명 | 핵심 내용 | 링크 |
-|------------|-----------|------|
+|----------|-----------|--------|
 | 🔷 **FlashPay** | Kafka + Redis 기반. 트래픽 집중 시 결제 요청을 안정적으로 처리하는 시스템. 멱등 처리, 분산 락, 트랜잭션 흐름 설계 포함. | [바로가기](https://github.com/lirongzzuin/FlashPay) |
 | 🔷 **FastChat** | Kafka/Redis 기반 WebSocket 채팅 시스템. JWT 인증, 실시간 메시징, 캐싱 구조 적용. | [바로가기](https://github.com/lirongzzuin/FastChat) |
 | 🔷 **BlameDetector** | HuggingFace API 기반. 카카오톡 대화/이미지를 업로드하면 AI가 과실 비율 분석. 공유 중심 모바일 UX 구성. | [바로가기](https://github.com/lirongzzuin/BlameDetector) |
