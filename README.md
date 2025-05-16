@@ -1,4 +1,4 @@
-# 👋 이영균 | Backend Developer
+# 👋 이영균 | Backend Developer with Real-Time System Focus
 
 ### 🇰🇷 한국어 | [🇺🇸 English](#-english-version)
 
@@ -23,10 +23,10 @@
 ## 💡 주요 사이드 프로젝트
 
 | 프로젝트명 | 핵심 내용 | 링크 |
-|----------|-----------|--------|
-| 🔷 **FlashPay** | Kafka + Redis 기반. 트래픽 집중 시 결제 요청을 안정적으로 처리하는 시스템. 멱등 처리, 분산 락, 트랜잭션 흐름 설계 포함. | [바로가기](https://github.com/lirongzzuin/FlashPay) |
-| 🔷 **FastChat** | Kafka/Redis 기반 WebSocket 채팅 시스템. JWT 인증, 실시간 메시징, 캐싱 구조 적용. | [바로가기](https://github.com/lirongzzuin/FastChat) |
-| 🔷 **BlameDetector** | HuggingFace API 기반. 카카오톡 대화/이미지를 업로드하면 AI가 과실 비율 분석. 공유 중심 모바일 UX 구성. | [바로가기](https://github.com/lirongzzuin/BlameDetector) |
+|------------|-----------|------|
+| 🔷 **FlashPay** | Kafka + Redis 기반. 트래픽 집중 시 결제 요청을 안정적으로 처리하는 시스템.<br>멱등 처리, 분산 락, 트랜잭션 흐름 설계 포함. | [바로가기](https://github.com/lirongzzuin/FlashPay) |
+| 🔷 **FastChat** | Kafka/Redis 기반 WebSocket 채팅 시스템.<br>JWT 인증, 실시간 메시징, 캐싱 구조 적용. | [바로가기](https://github.com/lirongzzuin/FastChat) |
+| 🔷 **BlameDetector** | HuggingFace API 기반. 카카오톡 대화/이미지를 업로드하면 AI가 과실 비율 분석.<br>공유 중심 모바일 UX 구성. | [바로가기](https://github.com/lirongzzuin/BlameDetector) |
 
 > 각 프로젝트의 기술 스택, 구조도, 실행 방법 등은 상세 README에 정리되어 있습니다.
 
@@ -52,6 +52,21 @@ GitHub · GitLab · Postman · Slack
 
 - [📁 coding-test-prep](https://github.com/lirongzzuin/coding-test-prep): 알고리즘 및 자료구조 풀이 및 설명
 - [📁 cs-study](https://github.com/lirongzzuin/cs-study): 운영체제, 네트워크, 데이터베이스 등 CS 기본 개념 정리
+
+
+---
+
+## 🗂 What I Learned
+
+📁 [What_I_Learned](https://github.com/lirongzzuin/What_I_Learned)  
+실무에서 경험한 문제 해결 사례, 사이드 프로젝트 개발 중 새롭게 학습한 개념들, 그리고 개발자로서 성장하며 얻은 인사이트들을 기록하는 레포지토리입니다.
+
+- 실무 + 사이드 프로젝트에서 마주한 문제 해결 경험 정리
+- Kafka/Redis, 인증 시스템 설계, 트랜잭션 처리 등 다양한 주제 포함
+- 단순한 오류 로그가 아닌 "왜", "어떻게 개선했는지"까지의 흐름 중심
+
+> 꾸준히 학습한 내용을 정리하고 공유함으로써, 보다 구조적인 사고와 문제 해결력을 키워가고 있습니다.
+
 
 ---
 
