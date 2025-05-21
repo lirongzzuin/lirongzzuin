@@ -1,4 +1,4 @@
-# 👋 이영규 | Backend Developer
+# 👋 이영균 | Backend Developer
 
 > 🇰🇷 한국어 | [🇺🇸 English Version Below ⬇️](#english-version)
 
