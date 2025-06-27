@@ -90,11 +90,12 @@ JavaScript, Kotlin, Python, Cordova, Postman, Slack
 
 ---
 
-## 🌐 English Version
+
+
+## 🌐 English Version <a id="english-version"></a>
+
 
 ### 👋 Younggyun Lee | Backend Developer
----
-
 
 ## 🗭  About Me
 
