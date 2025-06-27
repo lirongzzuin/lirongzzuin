@@ -4,7 +4,7 @@
 
 ---
 
-## 🗭 소개 (About Me)
+## 🗭  소개 (About Me)
 
 저는 **Java & Spring Boot 기반의 백엔드 개발자**로,  
 **Kafka, Redis, WebSocket, JWT 인증** 등을 활용한 **실시간 시스템 구축**에 흥미와 관심을 갖고 여러 사이드 프로젝트를 만들어보며 실력을 키워왔습니다.
@@ -93,8 +93,10 @@ JavaScript, Kotlin, Python, Cordova, Postman, Slack
 ## 🌐 English Version
 
 ### 👋 Younggyun Lee | Backend Developer
+---
 
-## 🗭 About Me
+
+## 🗭  About Me
 
 I'm a **backend developer specializing in Java & Spring Boot**,  
 with a strong interest in building **real-time systems** using technologies like **Kafka, Redis, WebSocket, and JWT authentication**.
