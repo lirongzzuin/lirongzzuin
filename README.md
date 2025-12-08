@@ -1,164 +1,84 @@
-# 👋 이영균 | Backend Developer
-
-> 🇰🇷 한국어 | [🇺🇸 English Version Below ⬇️](#english-version)
-
----
-
-## 🗭  소개 (About Me)
-
-저는 **Java & Spring Boot 기반의 백엔드 개발자**로,  
-**Kafka, Redis, WebSocket, JWT 인증** 등을 활용한 **실시간 시스템 구축**에 흥미와 관심을 갖고 여러 사이드 프로젝트를 만들어보며 실력을 키워왔습니다.
-
-처음에는 단순한 API 서버부터 시작했지만,  
-사이드 프로젝트를 거치면서 점점 구조적인 설계와 실제 운영 환경을 고려한 개발에 익숙해졌습니다.
-
-특히 다음과 같은 경험을 통해 백엔드 개발자로서 기반을 다졌습니다:
-
-- **Kafka + Redis 조합으로 실시간 결제 시스템**을 직접 구현하며 메시지 유실 방지와 멱등 처리 구조 설계
-- **WebSocket + Redis 기반의 채팅 서버**를 만들며 실시간 메시지 처리와 성능 최적화 경험
-- 각 서비스에서 **JWT 인증**, **Swagger 문서화**, **Docker 환경 구성**, **에러 핸들링**, **분산 락**, **Circuit Breaker** 등을 직접 구현해보고 적용해보기 위해 노력했습니다.
-
-알고리즘 풀이와 CS 이론 학습도 꾸준히 병행하려 노력하면서  
-**문제를 구조적으로 해결하고, 안정적인 시스템을 설계하는 능력**을 키우고 있습니다.
-
-단순히 작동하는 코드를 넘어서,  
-**왜 그렇게 설계하는지 고민하고, 실제로 돌아가는 구조를 설계할 수 있는 개발자**를 지향합니다.  
-이제는 이러한 프로젝트들에서 쌓은 경험들을 바탕으로,  
-**실시간 처리 시스템이나 백엔드 아키텍처 전반에 기여할 수 있는 환경에서 더 깊이 있게 성장해나가고 싶습니다.**
+# 이영균 (Younggyun Lee) 
+| Backend Developer · Product Manager Candidate
 
 ---
 
-## 💡 주요 사이드 프로젝트
+## 소개
 
-| 프로젝트명                | 설명                                                                                               | 링크                                                   |
-|---------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| **TrendHive**     | Spring Boot + JWT 기반 트렌드 공유 플랫폼<br>트렌드·댓글 도메인 설계 및 Swagger 문서, Docker + MySQL 환경 구성 | [GitHub 바로가기](https://github.com/lirongzzuin/TrendHive) |
-| **FlashPay**      | Kafka + Redis 기반 결제 시스템<br>멱등 처리와 분산 락으로 고신뢰 트랜잭션 처리 구조 구현                        | [GitHub 바로가기](https://github.com/lirongzzuin/FlashPay) |
-| **FastChat**      | WebSocket 기반 실시간 채팅 시스템<br>Redis 캐시 및 JWT 인증 적용으로 메시지 처리 최적화                      | [GitHub 바로가기](https://github.com/lirongzzuin/FastChat) |
-| **BlameDetector** | HuggingFace API 기반 AI 과실 분석기<br>카카오톡 UX 스타일 기반 공유 중심 모바일 웹 서비스 구현                 | [GitHub 바로가기](https://github.com/lirongzzuin/BlameDetector) |
-| **ElectoScope**   | HuggingFace + Redis 기반 공약 비교 및 감성 분석 플랫폼<br>실시간 뉴스 요약 기능 포함                        | [GitHub 바로가기](https://github.com/lirongzzuin/electoscope) |
+저는 Java와 Spring Boot를 중심으로 **실시간 처리 시스템**을 설계·구현해 온 백엔드 개발자입니다. Kafka, Redis, WebSocket, JWT 인증, Docker 기반 배포 자동화 등 실무 전반을 다루며, 사용자의 문제를 **정의하고 운영에 강한 서비스**로 연결하는 데 집중하도록 노력해 왔습니다. 
+최근에는 제품 관점에서 **지표·실험·운영 프로세스**까지 책임지는 **PM 역할**을 준비하고 있습니다.
 
----
+저의 핵심 역량은 다음과 같다고 생각합니다.
 
-## 🧑‍💻 기술 스택 (Tech Stack)
+- **실시간 시스템 설계**: Kafka/Redis, WebSocket
+- **운영 친화적 백엔드**: Swagger 명세, 로깅·모니터링, 구성 표준화, 배포 자동화(SH 스크립트)
+- **하이브리드 앱 연동**: Cordova 기반 iOS/Android 클라이언트와 Spring Boot 서버 연동
+- **프로덕트 마인드셋**: 요구 수집 → 정의 → 설계/개발 → 검수/배포 → 지표/피드백 기반 개선의 전 사이클 경험
 
-**Back-end**  
-Java, Spring Boot, JPA, JWT, REST API
-
-**Real-time / Messaging**  
-Kafka, Redis, WebSocket
-
-**Infra & DevOps**  
-Docker, AWS (EC2, S3), GitHub Actions
-
-**Database**  
-MySQL, MariaDB
-
-**Others**  
-JavaScript, Kotlin, Python, Cordova, Postman, Slack
+현재는 개발자 경험을 바탕으로 **PM/PO 트랙**으로 역할을 확장하고 있으며, **데이터와 사용자 가치**를 중심에 둔 제품 운영을 지향합니다.
 
 ---
 
-## 📘 학습 레포지토리
+## 주요 경력 하이라이트
 
-- [📁 coding-test-prep](https://github.com/lirongzzuin/coding-test-prep): 알고리즘 및 자료구조 풀이 정리
-- [📁 cs-study](https://github.com/lirongzzuin/cs-study): 운영체제, 네트워크, 데이터베이스 등 CS 핵심 이론 학습
+- **GNTEL 연구소 개발1팀 (2022 ~ 현재)**  
+  - 교환기 연결을 통한 사내전화와 내 휴대전화를 연결하여 사생활을 보호할 수 있는 하이브리드 앱(mCaller, CallBanner, MobileOffice 등), Spring Boot 백엔드 개발 및 연동
+  - OTP/FCM Push 로그인, 조직도/주소록, 버전 컨트롤, 원격 배포 자동화(SH) 등 기능 개발·운영
+  - 서버 배포 파이프라인과 하이브리드 컨텐츠 배포 자동화(타임스탬프 버전, 백업·이력 관리) 설계
+  - iOS FCM Push OTP 초기화 오류 분석 및 onDeviceReady() 재구성 등 플랫폼 이슈 해결
 
----
-
-## 📂 What I Learned
-
-📁 [What\_I\_Learned](https://github.com/lirongzzuin/What_I_Learned)  
-사이드 프로젝트와 실무 중 겪었던 이슈와 해결 과정, 설계 의도 등을 기록한 개발 노트입니다.
-
----
-
-## 📊 GitHub 활동
-
-![lirongzzuin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lirongzzuin&show_icons=true&theme=gruvbox&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lirongzzuin&layout=compact&theme=gruvbox_light&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+- **실시간 메시징/거래 자동화 사이드 프로젝트**  
+  - 한국투자증권(KIS)·Upbit API 기반 **자동 잔고 브리핑/체결 알림/자동매매** 시스템 개발
+  - Slack/Telegram/Discord 연동, 브리핑 포맷, 실패 종목 스킵 및 재시도, 레이트 리밋 제어
+  - RSI/MACD/ADX/Supertrend, ICT 지표 조합, 트레일링 스탑 등 매매 전략 연구 및 운용 자동화
 
 ---
 
-## 📬 연락처 & 포트폴리오
+## 대표 사이드 프로젝트
 
-- 📍 인천, 대한민국  
-- 📧 Email: [younggyun12@hotmail.com](mailto:younggyun12@hotmail.com)  
-- 💼 LinkedIn: [프로필 보기](https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6)  
-- 🌐 Notion 포트폴리오: [바로가기](https://swamp-force-6e6.notion.site/Developer-YG-s-289e71bb7258468fb045b6d70b54eb10?pvs=4)
+| 프로젝트 | 요약 | 역할 | 링크 |
+|---|---|---|---|
+| TrendHive | Spring Boot + JWT 기반 트렌드 공유 플랫폼. 트렌드/댓글 도메인, Swagger, Docker+MySQL | 설계·백엔드·배포 | https://github.com/lirongzzuin/TrendHive |
+| FastChat | WebSocket + Redis 캐시 기반 실시간 채팅. JWT, Swagger, ChatMessageDTO, Kafka/Redis 연동 | 서버 아키텍처·백엔드 | https://github.com/lirongzzuin/FastChat |
+| FlashPay | Kafka + Redis로 멱등·분산 락 기반 결제 트랜잭션 처리. 장애/유실 대비 구조 | 백엔드·메시징 설계 | https://github.com/lirongzzuin/FlashPay |
+| MoodPress | 감정 선택형 문장 생성/공유 웹. 모바일 중심 UX, 광고 수익화(쿠팡 파트너스) | 기획·FE/BE·분석 | https://github.com/lirongzzuin/moodpress |
+| BlameDetector | 대화 스크린샷 기반 과실 비율 분석 Web. 공유 중심 UX, 무료 AI API 우선 | 기획·FE/BE | https://github.com/lirongzzuin/BlameDetector |
 
----
-
-
-
-## 🌐 English Version <a id="english-version"></a>
-
-
-### 👋 Younggyun Lee | Backend Developer
-
-## 🗭  About Me
-
-I'm a **backend developer specializing in Java & Spring Boot**,  
-with a strong interest in building **real-time systems** using technologies like **Kafka, Redis, WebSocket, and JWT authentication**.
-
-I started by creating simple REST APIs,  
-but through various side projects, I gradually became more familiar with **structured system design** and development in **production-like environments**.
-
-Here are some of the experiences that helped me grow as a backend engineer:
-
-- Built a **real-time payment system using Kafka and Redis**, designing structures to prevent message loss and support idempotent processing  
-- Developed a **WebSocket-based chat server with Redis**, focusing on real-time message delivery and performance optimization  
-- Implemented and experimented with features like **JWT authentication**, **Swagger API documentation**, **Docker environments**, **error handling**, **distributed locks**, and **circuit breakers** in each project
-
-In parallel, I’ve been consistently studying algorithms and computer science fundamentals to strengthen my foundation.  
-This has helped me **approach problems more structurally and design systems with stability in mind**.
-
-I aim to be a developer who goes beyond writing working code —  
-someone who **understands why a system is designed a certain way** and can **build it to be reliable and maintainable in real-world scenarios**.
-
-Now, based on the hands-on experience I've gained through my projects,  
-I hope to grow further in **an environment where real-time systems and backend architecture truly matter**.
+> 추가: 자동매매/알림 봇, 버전·배포 자동화 도구, Cordova 플러그인 연동 샘플 등은 비공개 저장소 또는 사내 레포지토리로 운영했습니다.
 
 ---
 
-### 🔹 Side Projects
+## 제품(PO/PM) 관점의 강점
 
-| Project               | Description                                                                                      | Link                                                   |
-|-----------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| **TrendHive**         | Trend sharing platform with JWT auth, Swagger docs, and Docker + MySQL environment              | [View on GitHub](https://github.com/lirongzzuin/TrendHive) |
-| **FlashPay**          | Payment system with fault-tolerant transaction architecture using Kafka and Redis               | [View on GitHub](https://github.com/lirongzzuin/FlashPay) |
-| **FastChat**          | Real-time WebSocket chat app with Redis caching and JWT auth                                     | [View on GitHub](https://github.com/lirongzzuin/FastChat) |
-| **BlameDetector**     | HuggingFace-powered AI blame analyzer with mobile-first, KakaoTalk-style UX                     | [View on GitHub](https://github.com/lirongzzuin/BlameDetector) |
-| **ElectoScope**       | Spring + HuggingFace-based political news summarizer with sentiment analysis                    | [View on GitHub](https://github.com/lirongzzuin/electoscope) |
+- **문제 정의**: 현업/운영의 언어로 요구를 정리하고 개발 태스크로 변환합니다.
+- **지표 운영**: GA/로그 기반으로 전환·잔존·오류율을 추적하고, A/B 또는 단계적 롤아웃으로 개선합니다.
+- **프로세스 설계**: 체크리스트/표준 템플릿, 재현 가능한 배포 스크립트로 누락·재작업을 줄입니다.
+- **기술 커뮤니케이션**: 설계 배경·트레이드오프·대안까지 문서화하며, 개발/디자인/운영과 합의합니다.
 
 ---
 
-### 🔹 Tech Stack
+## 기술 스택
 
-- **Languages:** Java, JavaScript, Kotlin, Python  
-- **Frameworks:** Spring Boot, JPA, Cordova  
-- **Database:** MySQL, MariaDB  
-- **Infra & Messaging:** Kafka, Redis, Docker, AWS  
-- **Tools:** GitHub, GitLab, Postman, Slack
-
----
-
-### 🔹 Learning Repos
-
-- [coding-test-prep](https://github.com/lirongzzuin/coding-test-prep): Algorithm & data structure practice
-- [cs-study](https://github.com/lirongzzuin/cs-study): OS, DB, networking, CS theory
-- [What_I_Learned](https://github.com/lirongzzuin/What_I_Learned): Dev logs and engineering decisions
+**Backend**: Java, Spring Boot, JPA, REST, JWT 
+**Real-time/Messaging**: Kafka, Redis, WebSocket 
+**Infra/DevOps**: Docker, Shell(SH), Nginx, GitHub Actions, AWS(EC2/S3)  
+**DB**: MySQL, MariaDB  
+**Frontend/Client**: Javascript, Cordova  
+**Tools**: Swagger, Postman, Slack
 
 ---
 
-### 🔹 Contact
+## 공개 학습/정리
 
-- 📍 Incheon, South Korea  
-- 📧 Email: [younggyun12@hotmail.com](mailto:younggyun12@hotmail.com)  
-- 💼 LinkedIn: [View Profile](https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6)  
-- 🌐 Notion: [Go to Portfolio](https://swamp-force-6e6.notion.site/Developer-YG-s-289e71bb7258468fb045b6d70b54eb10?pvs=4)
+- coding-test-prep: 알고리즘/자료구조 풀이 정리 – https://github.com/lirongzzuin/coding-test-prep  
+- cs-study: OS/DB/Network 등 CS 이론 – https://github.com/lirongzzuin/cs-study  
+- What_I_Learned: 이슈·해결·설계 의도 기록 – https://github.com/lirongzzuin/What_I_Learned
 
 ---
 
-🔥 A developer who understands systems, solves problems, and builds resilient services.
+## 연락처·포트폴리오
+
+- 위치: 인천, 대한민국  
+- 이메일: younggyun12@hotmail.com  
+- LinkedIn: https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6  
+- Notion 포트폴리오: https://swamp-force-6e6.notion.site/Developer-YG-s-289e71bb7258468fb045b6d70b54eb10?pvs=4
