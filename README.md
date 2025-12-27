@@ -78,7 +78,7 @@
 
 ## 연락처·포트폴리오
 
-- 위치: 인천, 대한민국  
+- 위치: 경기도, 대한민국  
 - 이메일: younggyun12@hotmail.com  
 - LinkedIn: https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6  
 - Notion 포트폴리오: https://swamp-force-6e6.notion.site/Developer-YG-s-289e71bb7258468fb045b6d70b54eb10?pvs=4
