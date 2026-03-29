@@ -8,34 +8,33 @@
 
 ## About
 
-3년 5개월간 교환기 연동 앱의 백엔드 개발과 서비스 운영을 병행하면서, 장애 대응부터 배포 프로세스 개선, 이해관계자 간 기술 커뮤니케이션까지 개발과 운영의 접점에서 일해왔습니다. 코드를 직접 작성할 수 있는 기술 기반 위에, 문제를 정의하고 프로세스를 정비하며 관계자들이 같은 맥락에서 판단할 수 있도록 정리하는 역할을 자연스럽게 맡아왔습니다.
+3년 5개월간 교환기 연동 앱의 백엔드 개발과 서비스 운영을 병행하며, 장애 대응·배포 프로세스 개선·이해관계자 간 기술 커뮤니케이션까지 개발과 운영의 접점에서 일해왔습니다. 코드를 직접 다룰 수 있는 기반 위에, 문제를 정의하고 프로세스를 정비하며 관계자들이 같은 맥락에서 판단할 수 있도록 정리하는 역할을 맡아왔습니다.
 
-현재는 두핸즈 제품팀에서 기술지원을 담당하며, 제품과 고객 사이의 기술적 간극을 메우는 역할을 하고 있습니다.
+현재는 두핸즈 제품팀에서 기술지원 엔지니어로 근무하며, 자사 SaaS 제품(핸디봇·바이스)과 고객 사이의 기술적 간극을 메우고 있습니다.
 
-별도로 AI 도구(Claude Code)를 활용해 15개 이상의 서비스를 기획부터 배포까지 직접 만들었습니다. 요구사항을 구조화하고 AI 산출물을 검증·수정해 실제 서비스 수준으로 끌어올리는 워크플로우를 갖추고 있으며, 자동매매 봇·업무 자동화 SaaS 등 실제 운영 중인 프로젝트를 통해 AI 활용 역량을 지속적으로 확장하고 있습니다.
+별도로 AI 도구(Claude Code)를 활용해 15개 이상의 서비스를 기획부터 배포까지 직접 만들었습니다. 요구사항을 구조화하고, AI 산출물을 검증·수정해 실서비스 수준으로 끌어올리는 워크플로우를 갖추고 있으며, 자동매매 봇·업무 자동화 SaaS 등 실제 운영 중인 프로젝트를 통해 AI 활용 역량을 지속 확장하고 있습니다.
 
 ---
 
 ## How I Work
 
-**문제 정의 우선** — 요구사항을 받으면 "원하는 결과"와 "운영 제약(환경, 권한, 일정)"을 분리해서 정리합니다. 무엇을 해결해야 하는지 명확해야 올바른 방향으로 움직일 수 있다고 생각합니다.
-
-**체계적 이슈 해결** — 재현 조건(환경 / 단계 / 기대값 / 실제값)을 먼저 고정하고, 원인 후보를 좁혀가며 해결합니다. 감이 아니라 구조로 접근합니다.
-
-**반복 제거** — 반복되거나 실수하기 쉬운 작업은 스크립트·체크리스트·자동화로 표준화합니다. 사람이 매번 신경 쓰지 않아도 되는 구조를 만드는 것을 선호합니다.
-
-**기술 번역** — 개발·운영·현업 등 관점이 다른 이해관계자들이 같은 맥락에서 판단할 수 있도록, 기술적 내용을 선택지와 트레이드오프 중심으로 풀어서 전달합니다.
+| 원칙 | 설명 |
+|---|---|
+| **문제 정의 우선** | 요구사항을 받으면 "원하는 결과"와 "운영 제약(환경·권한·일정)"을 분리해 정리합니다. 방향이 명확해야 올바르게 움직일 수 있습니다. |
+| **체계적 이슈 해결** | 재현 조건(환경·단계·기대값·실제값)을 먼저 고정하고, 원인 후보를 좁혀가며 해결합니다. 감이 아니라 구조로 접근합니다. |
+| **반복 제거** | 반복되거나 실수하기 쉬운 작업은 스크립트·체크리스트·자동화로 표준화합니다. 사람이 매번 신경 쓰지 않아도 되는 구조를 선호합니다. |
+| **기술 번역** | 개발·운영·현업 등 관점이 다른 이해관계자들이 같은 맥락에서 판단할 수 있도록, 기술 내용을 선택지와 트레이드오프 중심으로 전달합니다. |
 
 ---
 
 ## Experience
 
-### 두핸즈 · 제품팀 기술지원 (2026.03 ~ 현재)
+### 두핸즈 · 제품팀 기술지원 엔지니어 (2026.03 ~ 현재)
 
-제품팀 소속으로 기술지원을 담당하고 있습니다. 제품과 고객 사이의 기술적 문제를 해결하고, 내부 팀과의 기술 커뮤니케이션을 통해 제품 품질 향상에 기여합니다.
+자사 SaaS 제품(핸디봇·바이스)의 기술지원을 담당합니다. 고객과 제품 사이의 기술적 문제를 해결하고, 내부 팀과의 커뮤니케이션을 통해 제품 품질 향상에 기여합니다.
 
 - 고객 기술 문의 대응 및 이슈 분석·해결
-- 제품 관련 기술 이슈의 내부 전파 및 개선 제안
+- 제품 이슈의 내부 전파 및 개선 제안
 - 기술 문서 작성 및 지원 프로세스 체계화
 
 ### GNTEL · 연구소 개발1팀 (2022.10 ~ 2026.03)
@@ -44,14 +43,14 @@
 
 **서비스 운영 & 프로세스 개선**
 
-- 하이브리드 콘텐츠 배포·버전 관리 흐름 재정비 — 배포 이력 추적과 백업 체계를 정리해 운영 안정성 향상
-- iOS / Android 환경별로 다르게 발생하는 이슈를 분리·추적하는 체계를 만들어 장애 해결 속도 개선
-- 배포·운영의 반복 작업을 Shell 스크립트와 체크리스트로 표준화해 누락과 재작업 감소
+- 하이브리드 콘텐츠 배포·버전 관리 흐름 재정비 → 배포 이력 추적·백업 체계 정리로 운영 안정성 향상
+- iOS / Android 환경별 이슈 분리·추적 체계 구축 → 장애 해결 속도 개선
+- 반복 작업을 Shell 스크립트·체크리스트로 표준화 → 누락·재작업 감소
 
 **기능 개발 & 유지보수**
 
-- OTP 기반 로그인(SMS / FCM Push), 조직도·주소록, 사용자·권한 관련 기능 개발
-- API 문서화(Swagger), 공통 응답·에러 처리 등 팀 협업을 위한 기반 정비
+- OTP 기반 로그인(SMS / FCM Push), 조직도·주소록, 사용자·권한 기능 개발
+- API 문서화(Swagger), 공통 응답·에러 처리 등 팀 협업 기반 정비
 
 ---
 
@@ -59,19 +58,19 @@
 
 ### AI 활용 & 서비스 빌딩
 
-Claude Code를 활용해 위치 기반 검색 앱, AI 세금 자동화 SaaS, 이메일 자동화 플랫폼, 자동매매 시스템, 캐주얼 게임 등 15개 이상의 프로젝트를 기획부터 배포까지 완료했습니다. 단순히 코드를 생성하는 데 그치지 않고, 요구사항을 구조화해서 전달하고 산출물을 검증·조율하며 서비스 품질을 확보하는 전체 흐름을 반복 경험했습니다.
+Claude Code를 활용해 위치 기반 검색 앱, AI 세금 자동화 SaaS, 이메일 자동화 플랫폼, 자동매매 시스템, 캐주얼 게임 등 **15개 이상의 프로젝트를 기획부터 배포까지** 완료했습니다. 단순 코드 생성이 아니라, 요구사항을 구조화해 전달하고 산출물을 검증·조율하며 서비스 품질을 확보하는 전체 흐름을 반복 경험했습니다.
 
 ### 자동화 시스템 설계 & 운영
 
-주식·암호화폐 자동매매 봇(Upbit, Binance, Bybit, Bitget, 키움증권), 주식 잔고 알림 봇(Discord 연동), 채용 공고 추천 봇 등 반복 업무를 자동화하는 시스템을 직접 설계·운영하고 있습니다. 특히 암호화폐 선물 봇은 다중 전략(추세추종, 평균회귀, 레짐 탐지)과 리스크 관리를 적용해 실거래까지 진행 중입니다.
+주식·암호화폐 자동매매 봇(Upbit, Binance, Bybit, Bitget, 키움증권), 주식 잔고 알림 봇(Discord 연동), 채용 공고 추천 봇 등 반복 업무를 자동화하는 시스템을 직접 설계·운영하고 있습니다. 암호화폐 선물 봇은 다중 전략(추세추종·평균회귀·레짐 탐지)과 리스크 관리를 적용해 실거래 운영 중입니다.
 
 ### 프로세스 개선 & 표준화
 
-업무 중 반복되거나 사람에 의존적인 작업을 찾아 자동화하고 표준화하는 것을 꾸준히 해왔습니다. 배포 프로세스를 스크립트로 정비하고, 장애 대응 절차를 체크리스트로 문서화하는 등 운영 품질을 안정적으로 유지할 수 있는 구조를 만들어왔습니다.
+반복되거나 사람에 의존적인 작업을 찾아 자동화·표준화하는 것을 꾸준히 해왔습니다. 배포 프로세스를 스크립트로 정비하고, 장애 대응 절차를 체크리스트로 문서화하는 등 운영 품질을 안정적으로 유지하는 구조를 만들어왔습니다.
 
 ### 이슈 관리 & 기술 커뮤니케이션
 
-장애나 이슈가 발생하면 재현 가능한 정보(환경, 로그, 기대값과 실제값)를 먼저 정리하고, 원인을 체계적으로 좁혀 해결합니다. 기술적 원인과 해결 방향을 비기술 직군에게도 이해할 수 있는 언어로 정리해 공유하고, 선택지와 영향 범위를 함께 전달해 의사결정을 돕습니다.
+장애나 이슈 발생 시 재현 가능한 정보(환경·로그·기대값·실제값)를 먼저 정리하고, 원인을 체계적으로 좁혀 해결합니다. 기술적 원인과 해결 방향을 비기술 직군도 이해할 수 있는 언어로 정리하고, 선택지와 영향 범위를 함께 전달해 의사결정을 돕습니다.
 
 ---
 
@@ -85,20 +84,20 @@ Claude Code를 활용해 위치 기반 검색 앱, AI 세금 자동화 SaaS, 이
 |---|---|---|
 | [BabyGoGo](https://github.com/lirongzzuin/babygogo) | 내 주변 유아 동반 가능 장소를 빠르게 찾기 어려움 | Next.js 14, Supabase, PostGIS, PWA |
 | [돌봄다리](https://github.com/lirongzzuin/dolbomdari) | 가족 돌봄 인력과 수요자를 연결하는 구조 부재 | Astro 5, Cloudflare D1/R2/KV, Claude API |
-| [소확잼](https://github.com/lirongzzuin/fortune-hub) | 가볍게 즐길 수 있는 일상 콘텐츠(운세·퀴즈) 플랫폼 | Next.js 14, Supabase, AdSense |
-| [짠내왕](https://github.com/lirongzzuin/jjannaewang) | 최저가 추적과 절약 팁을 공유하는 커뮤니티 | Next.js, Supabase, Upstash Redis |
-| [취향영수증](https://github.com/lirongzzuin/receipt-recap) | 유튜브·넷플릭스 등 소비 기록을 감성 영수증으로 시각화 | Next.js 15, Prisma, Neon DB, Toss Payments |
+| [소확잼](https://github.com/lirongzzuin/fortune-hub) | 가볍게 즐길 수 있는 일상 콘텐츠(운세·퀴즈) 부재 | Next.js 14, Supabase, AdSense |
+| [짠내왕](https://github.com/lirongzzuin/jjannaewang) | 최저가 추적·절약 팁 공유 커뮤니티 부재 | Next.js, Supabase, Upstash Redis |
+| [취향영수증](https://github.com/lirongzzuin/receipt-recap) | 소비 기록을 감성 영수증으로 시각화하고 싶은 니즈 | Next.js 15, Prisma, Neon DB, Toss Payments |
+| [AutoPilot](https://github.com/lirongzzuin/autopilot) | AI 이메일 분류·자동응답·워크플로우 자동화 | Next.js 14, Supabase, Prisma, Zustand |
 | TaxPilot | 프리랜서 세금 신고 자동화 SaaS | Next.js 14, Supabase, Claude API, Toss Payments |
-| AutoPilot | AI 이메일 분류·자동응답·워크플로우 자동화 SaaS | Next.js 14, Supabase, Prisma, Zustand |
-| World Leaders Missile Volley | 풍자 캐주얼 배구 게임 (토스 미니게임 대상) | Next.js 14, Canvas 2D, Socket.io, ELO 랭킹 |
+| [World Leaders Missile Volley](https://github.com/lirongzzuin/world-leaders-missile-volley) | 풍자 캐주얼 배구 게임 (토스 미니게임 대상) | Next.js 14, Canvas 2D, Socket.io, ELO 랭킹 |
 
 ### 자동매매 봇 & 트레이딩 시스템
 
 | 프로젝트 | 해결하려 한 문제 | 주요 기술 |
 |---|---|---|
-| Upbit 자동매매 봇 | 수동 매매의 반복과 감정 개입 제거 | TypeScript, Node.js, 레짐 탐지(3-mode), Oracle Cloud |
-| Binance 선물 봇 | 해외 선물거래 자동화 (동적 레짐 라우터) | Python, Docker, Slack 연동 |
-| Bybit 선물 봇 | 추세추종·평균회귀 멀티 전략 실거래 | Python, Docker, Fly.io, 355+ 테스트 |
+| [Upbit 자동매매 봇](https://github.com/lirongzzuin/upbit-bot) | 수동 매매의 반복과 감정 개입 제거 | TypeScript, Node.js, 레짐 탐지(3-mode), Oracle Cloud |
+| [Binance 선물 봇](https://github.com/lirongzzuin/binance-futures-bot) | 해외 선물거래 자동화 (동적 레짐 라우터) | Python, Docker, Slack 연동 |
+| [Bybit 선물 봇](https://github.com/lirongzzuin/bybit-futures-bot) | 추세추종·평균회귀 멀티 전략 실거래 | Python, Docker, Fly.io, 355+ 테스트 |
 | Bitget 선물 봇 | 거래소 다각화 및 전략 비교 | Python, APScheduler, aiosqlite |
 | 키움 국내주식 봇 | 국내 주식 장전·장중·장후 자동 매매 | Python, PyQt5, 키움 OpenAPI+ |
 | 키움 미국주식 봇 | 미국 주식 자동 매매 | Python, 키움 OpenAPI+ |
@@ -112,44 +111,43 @@ Claude Code를 활용해 위치 기반 검색 앱, AI 세금 자동화 SaaS, 이
 | [KIS Discord Alert Bot](https://github.com/lirongzzuin/KIS_Discord_Alert_Bot) | 주식 잔고 변동을 실시간으로 확인하기 번거로움 | Python, Discord API |
 | [Job Recommend Bot](https://github.com/lirongzzuin/job-recommend-bot) | 채용 공고를 매일 수동 탐색하는 비효율 제거 | JavaScript |
 
-### 기술 학습 목적 프로젝트
-
-개발 역량의 기반을 넓히기 위해 진행한 프로젝트들입니다.
+### 기술 학습 프로젝트
 
 | 프로젝트 | 설명 | 주요 기술 |
 |---|---|---|
 | [TrendHive](https://github.com/lirongzzuin/TrendHive) | 트렌드 공유·댓글 플랫폼 (JWT 인증, Docker 구성) | Java, Spring Boot, MySQL |
 | [FastChat](https://github.com/lirongzzuin/FastChat) | WebSocket 기반 실시간 채팅 | Java, Spring Boot |
-| [FlashPay](https://github.com/lirongzzuin/FlashPay) | 결제 트랜잭션 처리 구조 설계 연습 | Java, Spring Boot |
+| [FlashPay](https://github.com/lirongzzuin/FlashPay) | 결제 트랜잭션 처리 구조 설계 | Java, Spring Boot |
 | [MoodPress](https://github.com/lirongzzuin/moodpress) | 감정 선택 기반 문장 생성·공유 웹 | TypeScript, Next.js |
-| [BlameDetector](https://github.com/lirongzzuin/BlameDetector) | 대화 스크린샷 기반 과실 분석 서비스 | JavaScript |
+| [BlameDetector](https://github.com/lirongzzuin/blame-detector) | 대화 스크린샷 기반 과실 분석 서비스 | JavaScript |
 
 ---
 
 ## Tech Stack
 
-- **Backend** — Java, Spring Boot, JPA, REST, JWT
-- **Frontend** — TypeScript, JavaScript, Next.js, React, Astro, Cordova
-- **Database** — MySQL, MariaDB, PostgreSQL (Neon), Supabase, SQLite, Cloudflare D1
-- **Infra & DevOps** — Docker, Shell, Nginx, GitHub Actions, AWS (EC2/S3), Cloudflare (Pages/D1/R2/KV), Fly.io, Oracle Cloud, Vercel
-- **Trading & Automation** — Python, Node.js, Discord API, 거래소 API (Upbit / Binance / Bybit / Bitget / KIS / 키움증권)
-- **AI & Tools** — Claude Code, Claude API, Swagger, Postman, Slack
-- **Monitoring** — Upstash Redis, Prisma, Socket.io
-
-*Kafka, Redis, Turborepo 등은 사이드 프로젝트에서 필요한 범위 내에서 적용한 경험이 있습니다.*
+| 분류 | 기술 |
+|---|---|
+| **Backend** | Java, Spring Boot, JPA, REST, JWT |
+| **Frontend** | TypeScript, JavaScript, Next.js, React, Astro, Cordova |
+| **Database** | MySQL, MariaDB, PostgreSQL (Neon), Supabase, SQLite, Cloudflare D1 |
+| **Infra & DevOps** | Docker, Shell, Nginx, GitHub Actions, AWS (EC2/S3), Cloudflare (Pages/D1/R2/KV), Fly.io, Oracle Cloud, Vercel |
+| **Trading & Automation** | Python, Node.js, Discord API, 거래소 API (Upbit / Binance / Bybit / Bitget / KIS / 키움증권) |
+| **AI & Tools** | Claude Code, Claude API, Swagger, Postman, Slack |
 
 ---
 
 ## Study & Notes
 
-- [coding-test-prep](https://github.com/lirongzzuin/coding-test-prep) — 알고리즘·자료구조 풀이 정리
-- [cs-study](https://github.com/lirongzzuin/cs-study) — OS, DB, Network 등 CS 이론 정리
-- [What_I_Learned](https://github.com/lirongzzuin/What_I_Learned) — 실무 이슈·해결 과정·설계 의도 기록
+| 저장소 | 내용 |
+|---|---|
+| [coding-test-prep](https://github.com/lirongzzuin/coding-test-prep) | 알고리즘·자료구조 풀이 정리 |
+| [cs-study](https://github.com/lirongzzuin/cs-study) | OS, DB, Network 등 CS 이론 정리 |
+| [What_I_Learned](https://github.com/lirongzzuin/What_I_Learned) | 실무 이슈·해결 과정·설계 의도 기록 |
 
 ---
 
 ## Contact
 
-- 📍 경기도, 대한민국
-- ✉️ younggyun12@hotmail.com
-- [GitHub](https://github.com/lirongzzuin) · [LinkedIn](https://www.linkedin.com/in/%EC%98%81%EA%B7%A0-%EC%9D%B4-b2b4532b6) · [Notion Portfolio](https://swamp-force-6e6.notion.site/Developer-YG-s-289e71bb7258468fb045b6d70b54eb10)
+📍 경기도, 대한민국 · ✉️ younggyun12@hotmail.com
+
+[GitHub](https://github.com/lirongzzuin) · [LinkedIn](https://www.linkedin.com/in/younggyunlee) · [Notion Portfolio](https://swamp-force-6e6.notion.site/Developer-YG-s-289e71bb7258468fb045b6d70b54eb10)
