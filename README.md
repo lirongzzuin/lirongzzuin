@@ -15,6 +15,7 @@ Technical Support Engineer · 백엔드 개발 경험 기반 기술지원 · 업
 - API·DB·로그를 직접 확인할 수 있어, 단순 문의 전달이 아니라 원인 후보까지 좁혀서 개발팀에 넘깁니다
 - 반복되는 문의와 수작업은 스크립트, 체크리스트, 내부 도구로 바꿔 왔습니다
 - AI 도구(Claude Code)를 업무와 개인 프로젝트에 적극 활용합니다. 요구사항 정의, 설계 방향 결정, 결과물 검증과 배포·운영을 맡는 방식입니다
+- 개인 서비스를 직접 운영하면서 배포, 모니터링, 장애 대응, API 비용 관리까지 맡고 있습니다
 
 ---
 
@@ -58,30 +59,31 @@ Technical Support Engineer · 백엔드 개발 경험 기반 기술지원 · 업
 
 ## Selected Projects
 
-개인적으로 기획하고 AI 도구로 구현해 배포·운영한 프로젝트 중 일부입니다. 저는 문제 정의, 기능 범위 설정, 구조 결정, 결과물 검증과 운영을 맡았습니다.
+직접 기획하고 AI 도구(Claude Code)로 구현해 배포·운영한 프로젝트입니다. 제 역할은 문제 정의, 기능 범위 설정, 구조 결정, 결과물 검증, 배포 후 운영입니다.
 
 | 프로젝트 | 내용 | 기술 |
 |---|---|---|
+| [BeautyPost](https://github.com/lirongzzuin/beautypost-public) | 1인 뷰티샵이 시술 사진을 올리면 인스타·블로그 게시글, 게시용 사진, 릴스 영상을 만들어 주는 서비스. 2026.10~ 운영 중 ([beautypost.shop](https://beautypost.shop)) | TypeScript, Hono, React PWA, Neon Postgres, Gemini·Claude API, ffmpeg |
+| [BabyGoGo](https://github.com/lirongzzuin/babygogo) | 내 주변 유아 동반 가능 장소 위치 기반 검색. 카카오·구글·네이버 API 교차 활용, API 비용 제어 설계 | Next.js 14, Supabase, PostGIS, PWA |
 | [KIS Discord Alert Bot](https://github.com/lirongzzuin/KIS_Discord_Alert_Bot) | 한국투자증권 OpenAPI로 잔고·체결 변동을 Discord로 알림. 상시 운영 중 | Python, KIS OpenAPI, Discord API |
-| [Job Recommend Bot](https://github.com/lirongzzuin/job-recommend-bot) | 매일 채용 공고를 수집해 조건에 맞는 공고만 추려서 알림 | JavaScript |
-| [AutoPilot](https://github.com/lirongzzuin/autopilot) | 이메일 분류, 자동 응답, 업무 워크플로우 자동화 | Next.js 14, Supabase, Prisma |
-| [BabyGoGo](https://github.com/lirongzzuin/babygogo) | 내 주변 유아 동반 가능 장소 위치 기반 검색 | Next.js 14, Supabase, PostGIS, PWA |
-| [돌봄다리](https://github.com/lirongzzuin/dolbomdari) | 가족 돌봄 인력과 수요자 매칭 | Astro 5, Cloudflare D1/R2/KV, Claude API |
-| [소확잼](https://github.com/lirongzzuin/fortune-hub) | 운세·테스트·퀴즈 콘텐츠 웹 서비스. 실서비스 운영 중 | Next.js 14, Supabase, AdSense |
-| 자동매매 시스템 | 국내·해외 주식 및 암호화폐 거래소 API 연동 자동매매·모니터링. 장애 시 알림, 테스트 코드, 컨테이너 배포 적용 | Python, TypeScript, Docker, Fly.io, Oracle Cloud |
+| [Job Recommend Bot](https://github.com/lirongzzuin/job-recommend-bot) | 채용 공고를 매일 수집해 조건에 맞는 공고만 추려서 알림 | JavaScript |
+| 소확잼 | 운세·테스트·퀴즈 콘텐츠 웹 서비스. 운영 중 ([sohwakzem.xyz](https://sohwakzem.xyz)) | Next.js 14, Supabase, AdSense |
+| 자동매매 시스템 | 국내·해외 주식과 암호화폐 거래소 API 연동 자동매매·모니터링. 장애 알림, 테스트 코드, 컨테이너 배포 적용 | Python, TypeScript, Docker, Fly.io, Oracle Cloud |
+
+링크가 없는 프로젝트는 비공개 저장소입니다. 필요하시면 코드와 운영 내역을 따로 공유드리겠습니다.
 
 <details>
 <summary>그 외 프로젝트</summary>
 
 | 프로젝트 | 내용 | 기술 |
 |---|---|---|
-| [짠내왕](https://github.com/lirongzzuin/jjannaewang) | 최저가 추적·절약 팁 공유 | Next.js, Supabase, Upstash Redis |
-| [취향영수증](https://github.com/lirongzzuin/receipt-recap) | 소비 기록을 영수증 형태로 시각화 | Next.js 15, Prisma, Neon DB, Toss Payments |
-| [Upbit Bot](https://github.com/lirongzzuin/upbit-bot) | 시장 상황(레짐) 판단 기반 자동매매 | TypeScript, Node.js |
-| [Binance Futures Bot](https://github.com/lirongzzuin/binance-futures-bot) | 선물 자동매매, Slack 알림 | Python, Docker |
-| [Bybit Futures Bot](https://github.com/lirongzzuin/bybit-futures-bot) | 멀티 전략 자동매매, 355개 이상 테스트 | Python, Docker, Fly.io |
-| [Crypto Auto Trade](https://github.com/lirongzzuin/Crypto_Auto_Trade_for_Upbit_and_Binance) | 암호화폐 시장 모니터링 자동화 | Python |
+| AutoPilot | 이메일 분류, 자동 응답, 업무 워크플로우 자동화 | Next.js 14, Supabase, Prisma |
+| 돌봄다리 | 가족 돌봄 인력과 수요자 매칭 | Astro 5, Cloudflare D1/R2/KV, Claude API |
+| 짠내왕 | 최저가 추적·절약 팁 공유 | Next.js, Supabase, Upstash Redis |
+| [취향영수증](https://github.com/lirongzzuin/receipt-recap) | 콘텐츠 소비 기록을 영수증 형태로 시각화 | Next.js 15, Prisma, Neon DB, Toss Payments |
+| [Crypto Auto Trade](https://github.com/lirongzzuin/Crypto_Auto_Trade_for_Upbit_and_Binance) | Upbit·Binance 시세 모니터링과 자동매매 | Python |
 | [TrendHive](https://github.com/lirongzzuin/TrendHive) | 트렌드 공유·댓글 플랫폼 (JWT 인증, Docker) | Java, Spring Boot, MySQL |
+| [voucher-booking-server](https://github.com/lirongzzuin/voucher-booking-server) | 바우처 관리·회의실 예약 서버 | Java, Spring Boot |
 | [FastChat](https://github.com/lirongzzuin/FastChat) | WebSocket 실시간 채팅 | Java, Spring Boot |
 | [FlashPay](https://github.com/lirongzzuin/FlashPay) | 결제 트랜잭션 처리 구조 설계 | Java, Spring Boot |
 | [MoodPress](https://github.com/lirongzzuin/moodpress) | 감정 기반 문장 생성·공유 | TypeScript, Next.js |
