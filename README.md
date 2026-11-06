@@ -69,6 +69,7 @@ Technical Support Engineer · 백엔드 개발 경험 기반 기술지원 · 업
 | [쿠팡 위탁판매 무인 운영 시스템](https://github.com/lirongzzuin/coupang-dropship-engine-public) | 상품 선정 → 등록 → 주문 수집 → 공급처 발주 → 송장 → 정산 대사까지 자동 처리하고 사람은 예외 알림만 처리. 실주문을 지키는 안전 플래그, 상태머신·멱등 처리, 이상 감지 시 자동 판매중지, CI 통과 커밋만 받는 자동 업데이트와 롤백, 개인정보 암호화·감사 로그 | TypeScript, Fastify, PostgreSQL, React, Vitest, GitHub Actions |
 | [BeautyPost](https://github.com/lirongzzuin/beautypost-public) | 1인 뷰티샵이 시술 사진을 올리면 인스타·블로그 게시글, 게시용 사진, 릴스 영상을 만들어 주는 서비스 ([beautypost.shop](https://beautypost.shop)). 영상 렌더링 150초 → 4초, Postgres 기반 작업 큐, 무료 AI 한도 안에서 운영 | TypeScript, Hono, React PWA, Neon Postgres, Gemini·Claude API, ffmpeg |
 | [소확잼](https://github.com/lirongzzuin/fortune-hub) | 운세·테스트·퀴즈 콘텐츠 웹 서비스 ([sohwakzem.xyz](https://sohwakzem.xyz)). 콘텐츠 33종을 레지스트리 하나로 관리, DB 없이 결정론적 개인화, AdSense 정책에 맞춘 광고 배치 | Next.js 14, Supabase, AdSense, Vercel |
+| [육아 영상 자동 편집 파이프라인](https://github.com/lirongzzuin/filmcraft-shorts-pipeline) | 직접 촬영한 가족 영상을 넣으면 편집 기획(plan.json) 검증 → 편집기(FilmCraft)를 MCP 로 원격 조작해 쇼츠·롱폼 빌드 → 규격·음량·자막 겹침 QA → 업로드 일정·배포 → 성과 수집까지 처리하는 개인 채널용 파이프라인 (단위 테스트 122개, 열람 전용 공개 사본) | Python, MCP, Swift(macOS Vision), YouTube API |
 | [storage keeper](https://github.com/lirongzzuin/storage-keeper) | 256GB Mac 의 오래된 작업 파일을 외장 SSD 로 해시 검증 후 옮기고 링크로 대체하는 운영 자동화. SSD 연결 감시·자동 재마운트, 복사 중 연결이 끊겨도 원본 보존 | Python, launchd, macOS 시스템 도구 |
 
 ### 현장·업무 문제를 푼 프로젝트
