@@ -1,153 +1,115 @@
 # 이영균 (Younggyun Lee)
 
-**Technical Support Engineer · IT Operations · AI-Driven Automation**
+Technical Support Engineer · 백엔드 개발 경험 기반 기술지원 · 업무 자동화
 
-기술을 이해하고 활용하는 운영·관리자를 지향합니다.
+고객이 겪는 문제를 재현하고, 원인을 코드·로그·데이터 수준에서 확인한 뒤, 개발팀과 고객 양쪽이 이해할 수 있는 말로 정리합니다.
 
----
-
-## About
-
-3년 5개월간 교환기 연동 앱의 백엔드 개발과 서비스 운영을 병행하며, 장애 대응·배포 프로세스 개선·이해관계자 간 기술 커뮤니케이션까지 개발과 운영의 접점에서 일해왔습니다. 코드를 직접 다룰 수 있는 기반 위에, 문제를 정의하고 프로세스를 정비하며 관계자들이 같은 맥락에서 판단할 수 있도록 정리하는 역할을 맡아왔습니다.
-
-현재는 두핸즈 제품팀에서 기술지원 엔지니어로 근무하며, 자사 SaaS 제품(핸디봇·바이스)과 고객 사이의 기술적 간극을 메우고 있습니다.
-
-별도로 AI 도구(Claude Code)를 활용해 15개 이상의 서비스를 기획부터 배포까지 직접 만들었습니다. 요구사항을 구조화하고, AI 산출물을 검증·수정해 실서비스 수준으로 끌어올리는 워크플로우를 갖추고 있으며, 자동매매 봇·업무 자동화 SaaS 등 실제 운영 중인 프로젝트를 통해 AI 활용 역량을 지속 확장하고 있습니다.
+[LinkedIn](https://www.linkedin.com/in/younggyunlee) · [Notion Portfolio](https://swamp-force-6e6.notion.site/Developer-YG-s-289e71bb7258468fb045b6d70b54eb10) · younggyun12@hotmail.com
 
 ---
 
-## How I Work
+## Summary
 
-| 원칙 | 설명 |
-|---|---|
-| **문제 정의 우선** | 요구사항을 받으면 "원하는 결과"와 "운영 제약(환경·권한·일정)"을 분리해 정리합니다. 방향이 명확해야 올바르게 움직일 수 있습니다. |
-| **체계적 이슈 해결** | 재현 조건(환경·단계·기대값·실제값)을 먼저 고정하고, 원인 후보를 좁혀가며 해결합니다. 감이 아니라 구조로 접근합니다. |
-| **반복 제거** | 반복되거나 실수하기 쉬운 작업은 스크립트·체크리스트·자동화로 표준화합니다. 사람이 매번 신경 쓰지 않아도 되는 구조를 선호합니다. |
-| **기술 번역** | 개발·운영·현업 등 관점이 다른 이해관계자들이 같은 맥락에서 판단할 수 있도록, 기술 내용을 선택지와 트레이드오프 중심으로 전달합니다. |
+- 백엔드 개발 3년 5개월 (교환기 연동 모바일 앱 서버 개발 + 서비스 운영 병행)
+- 현재 B2B SaaS 기술지원 엔지니어 (풀필먼트 도메인, 2026.03~)
+- API·DB·로그를 직접 확인할 수 있어, 단순 문의 전달이 아니라 원인 후보까지 좁혀서 개발팀에 넘깁니다
+- 반복되는 문의와 수작업은 스크립트, 체크리스트, 내부 도구로 바꿔 왔습니다
+- AI 도구(Claude Code)를 업무와 개인 프로젝트에 적극 활용합니다. 요구사항 정의, 설계 방향 결정, 결과물 검증과 배포·운영을 맡는 방식입니다
 
 ---
 
 ## Experience
 
-### 두핸즈 · 제품팀 기술지원 엔지니어 (2026.03 ~ 현재)
+### 두핸즈 (DoHands) · 제품팀 기술지원 엔지니어
+2026.03 ~ 현재 · 풀필먼트 SaaS (핸디봇 · 바이스)
 
-자사 SaaS 제품(핸디봇·바이스)의 기술지원을 담당합니다. 고객과 제품 사이의 기술적 문제를 해결하고, 내부 팀과의 커뮤니케이션을 통해 제품 품질 향상에 기여합니다.
+- 고객사 기술 문의 접수, 재현, 원인 분석 및 답변
+- 이슈를 버그 / 기능개선 / 기능요청으로 분류해 개발팀 백로그(Jira)에 등록하고 처리 상황 추적
+- Slack 기술문의 스레드를 정해진 양식의 Jira 티켓으로 옮기는 과정을 AI 워크플로우로 자동화
+- 내부 운영용 주문 배정 도구 개발 진행 (Cloudflare Workers, TypeScript/Hono, Queues, KV, D1)
+- 반복 문의에 대한 대응 가이드와 기술 문서 정리
 
-- 고객 기술 문의 대응 및 이슈 분석·해결
-- 제품 이슈의 내부 전파 및 개선 제안
-- 기술 문서 작성 및 지원 프로세스 체계화
+### GNTEL · 연구소 개발1팀 백엔드 개발자
+2022.10 ~ 2026.03 · 교환기 연동 하이브리드 앱 (mCaller, CallBanner, MobileOffice 등)
 
-### GNTEL · 연구소 개발1팀 (2022.10 ~ 2026.03)
+서비스 운영 · 장애 대응
+- iOS / Android 환경별로 이슈를 분리해 추적하는 방식을 만들어 원인 파악 시간 단축
+- 하이브리드 콘텐츠 배포·버전 관리 흐름을 재정비하고 배포 이력 추적·백업 체계 마련
+- 반복 배포·점검 작업을 Shell 스크립트와 체크리스트로 표준화해 누락과 재작업 감소
+- 고객사·영업·개발 사이에서 장애 원인과 조치 계획을 정리해 공유
 
-교환기 연동 하이브리드 앱(mCaller, CallBanner, MobileOffice 등)의 백엔드 개발과 서비스 운영을 담당했습니다.
-
-**서비스 운영 & 프로세스 개선**
-
-- 하이브리드 콘텐츠 배포·버전 관리 흐름 재정비 → 배포 이력 추적·백업 체계 정리로 운영 안정성 향상
-- iOS / Android 환경별 이슈 분리·추적 체계 구축 → 장애 해결 속도 개선
-- 반복 작업을 Shell 스크립트·체크리스트로 표준화 → 누락·재작업 감소
-
-**기능 개발 & 유지보수**
-
-- OTP 기반 로그인(SMS / FCM Push), 조직도·주소록, 사용자·권한 기능 개발
-- API 문서화(Swagger), 공통 응답·에러 처리 등 팀 협업 기반 정비
-
----
-
-## Core Strengths
-
-### AI 활용 & 서비스 빌딩
-
-Claude Code를 활용해 위치 기반 검색 앱, AI 세금 자동화 SaaS, 이메일 자동화 플랫폼, 자동매매 시스템, 캐주얼 게임 등 **15개 이상의 프로젝트를 기획부터 배포까지** 완료했습니다. 단순 코드 생성이 아니라, 요구사항을 구조화해 전달하고 산출물을 검증·조율하며 서비스 품질을 확보하는 전체 흐름을 반복 경험했습니다.
-
-### 자동화 시스템 설계 & 운영
-
-주식·암호화폐 자동매매 봇(Upbit, Binance, Bybit, Bitget, 키움증권), 주식 잔고 알림 봇(Discord 연동), 채용 공고 추천 봇 등 반복 업무를 자동화하는 시스템을 직접 설계·운영하고 있습니다. 암호화폐 선물 봇은 다중 전략(추세추종·평균회귀·레짐 탐지)과 리스크 관리를 적용해 실거래 운영 중입니다.
-
-### 프로세스 개선 & 표준화
-
-반복되거나 사람에 의존적인 작업을 찾아 자동화·표준화하는 것을 꾸준히 해왔습니다. 배포 프로세스를 스크립트로 정비하고, 장애 대응 절차를 체크리스트로 문서화하는 등 운영 품질을 안정적으로 유지하는 구조를 만들어왔습니다.
-
-### 이슈 관리 & 기술 커뮤니케이션
-
-장애나 이슈 발생 시 재현 가능한 정보(환경·로그·기대값·실제값)를 먼저 정리하고, 원인을 체계적으로 좁혀 해결합니다. 기술적 원인과 해결 방향을 비기술 직군도 이해할 수 있는 언어로 정리하고, 선택지와 영향 범위를 함께 전달해 의사결정을 돕습니다.
+기능 개발 · 유지보수
+- OTP 로그인(SMS / FCM Push), 조직도·주소록, 사용자·권한 관리 기능 개발
+- Swagger 기반 API 문서화, 공통 응답·에러 처리 구조 정비
 
 ---
 
-## Side Projects
+## How I Handle Issues
 
-### AI 도구(Claude Code) 활용 서비스
-
-요구사항 구조화 → AI 산출물 검증·수정 → 배포·운영의 전체 사이클을 경험한 프로젝트입니다.
-
-| 프로젝트 | 해결하려 한 문제 | 주요 기술 |
-|---|---|---|
-| [BabyGoGo](https://github.com/lirongzzuin/babygogo) | 내 주변 유아 동반 가능 장소를 빠르게 찾기 어려움 | Next.js 14, Supabase, PostGIS, PWA |
-| [돌봄다리](https://github.com/lirongzzuin/dolbomdari) | 가족 돌봄 인력과 수요자를 연결하는 구조 부재 | Astro 5, Cloudflare D1/R2/KV, Claude API |
-| [소확잼](https://github.com/lirongzzuin/fortune-hub) | 가볍게 즐길 수 있는 일상 콘텐츠(운세·퀴즈) 부재 | Next.js 14, Supabase, AdSense |
-| [짠내왕](https://github.com/lirongzzuin/jjannaewang) | 최저가 추적·절약 팁 공유 커뮤니티 부재 | Next.js, Supabase, Upstash Redis |
-| [취향영수증](https://github.com/lirongzzuin/receipt-recap) | 소비 기록을 감성 영수증으로 시각화하고 싶은 니즈 | Next.js 15, Prisma, Neon DB, Toss Payments |
-| [AutoPilot](https://github.com/lirongzzuin/autopilot) | AI 이메일 분류·자동응답·워크플로우 자동화 | Next.js 14, Supabase, Prisma, Zustand |
-| TaxPilot | 프리랜서 세금 신고 자동화 SaaS | Next.js 14, Supabase, Claude API, Toss Payments |
-| [World Leaders Missile Volley](https://github.com/lirongzzuin/world-leaders-missile-volley) | 풍자 캐주얼 배구 게임 (토스 미니게임 대상) | Next.js 14, Canvas 2D, Socket.io, ELO 랭킹 |
-
-### 자동매매 봇 & 트레이딩 시스템
-
-| 프로젝트 | 해결하려 한 문제 | 주요 기술 |
-|---|---|---|
-| [Upbit 자동매매 봇](https://github.com/lirongzzuin/upbit-bot) | 수동 매매의 반복과 감정 개입 제거 | TypeScript, Node.js, 레짐 탐지(3-mode), Oracle Cloud |
-| [Binance 선물 봇](https://github.com/lirongzzuin/binance-futures-bot) | 해외 선물거래 자동화 (동적 레짐 라우터) | Python, Docker, Slack 연동 |
-| [Bybit 선물 봇](https://github.com/lirongzzuin/bybit-futures-bot) | 추세추종·평균회귀 멀티 전략 실거래 | Python, Docker, Fly.io, 355+ 테스트 |
-| Bitget 선물 봇 | 거래소 다각화 및 전략 비교 | Python, APScheduler, aiosqlite |
-| 키움 국내주식 봇 | 국내 주식 장전·장중·장후 자동 매매 | Python, PyQt5, 키움 OpenAPI+ |
-| 키움 미국주식 봇 | 미국 주식 자동 매매 | Python, 키움 OpenAPI+ |
-| [Crypto Auto Trade](https://github.com/lirongzzuin/Crypto_Auto_Trade_for_Upbit_and_Binance) | 암호화폐 시장 24시간 모니터링 자동화 | Python |
-| Crypto Bot Pro | 트레이딩 봇 통합 모노레포 | Turborepo, pnpm, Prisma |
-
-### 알림 & 유틸리티 봇
-
-| 프로젝트 | 해결하려 한 문제 | 주요 기술 |
-|---|---|---|
-| [KIS Discord Alert Bot](https://github.com/lirongzzuin/KIS_Discord_Alert_Bot) | 주식 잔고 변동을 실시간으로 확인하기 번거로움 | Python, Discord API |
-| [Job Recommend Bot](https://github.com/lirongzzuin/job-recommend-bot) | 채용 공고를 매일 수동 탐색하는 비효율 제거 | JavaScript |
-
-### 기술 학습 프로젝트
-
-| 프로젝트 | 설명 | 주요 기술 |
-|---|---|---|
-| [TrendHive](https://github.com/lirongzzuin/TrendHive) | 트렌드 공유·댓글 플랫폼 (JWT 인증, Docker 구성) | Java, Spring Boot, MySQL |
-| [FastChat](https://github.com/lirongzzuin/FastChat) | WebSocket 기반 실시간 채팅 | Java, Spring Boot |
-| [FlashPay](https://github.com/lirongzzuin/FlashPay) | 결제 트랜잭션 처리 구조 설계 | Java, Spring Boot |
-| [MoodPress](https://github.com/lirongzzuin/moodpress) | 감정 선택 기반 문장 생성·공유 웹 | TypeScript, Next.js |
-| [BlameDetector](https://github.com/lirongzzuin/blame-detector) | 대화 스크린샷 기반 과실 분석 서비스 | JavaScript |
-
----
-
-## Tech Stack
-
-| 분류 | 기술 |
+| 단계 | 하는 일 |
 |---|---|
-| **Backend** | Java, Spring Boot, JPA, REST, JWT |
-| **Frontend** | TypeScript, JavaScript, Next.js, React, Astro, Cordova |
-| **Database** | MySQL, MariaDB, PostgreSQL (Neon), Supabase, SQLite, Cloudflare D1 |
-| **Infra & DevOps** | Docker, Shell, Nginx, GitHub Actions, AWS (EC2/S3), Cloudflare (Pages/D1/R2/KV), Fly.io, Oracle Cloud, Vercel |
-| **Trading & Automation** | Python, Node.js, Discord API, 거래소 API (Upbit / Binance / Bybit / Bitget / KIS / 키움증권) |
-| **AI & Tools** | Claude Code, Claude API, Swagger, Postman, Slack |
+| 정리 | 고객이 원하는 결과와 현재 상황, 환경(버전·권한·데이터)을 분리해서 적습니다 |
+| 재현 | 환경·단계·기대값·실제값을 고정하고 같은 조건에서 재현합니다 |
+| 원인 확인 | API 요청/응답, 로그, DB 데이터를 직접 보고 원인 후보를 좁힙니다 |
+| 전달 | 개발팀에는 재현 절차와 근거를, 고객에게는 영향 범위와 선택지를 전달합니다 |
+| 재발 방지 | 같은 문의가 반복되면 문서, 체크리스트, 자동화로 바꿉니다 |
+
+---
+
+## Selected Projects
+
+개인적으로 기획하고 AI 도구로 구현해 배포·운영한 프로젝트 중 일부입니다. 저는 문제 정의, 기능 범위 설정, 구조 결정, 결과물 검증과 운영을 맡았습니다.
+
+| 프로젝트 | 내용 | 기술 |
+|---|---|---|
+| [KIS Discord Alert Bot](https://github.com/lirongzzuin/KIS_Discord_Alert_Bot) | 한국투자증권 OpenAPI로 잔고·체결 변동을 Discord로 알림. 상시 운영 중 | Python, KIS OpenAPI, Discord API |
+| [Job Recommend Bot](https://github.com/lirongzzuin/job-recommend-bot) | 매일 채용 공고를 수집해 조건에 맞는 공고만 추려서 알림 | JavaScript |
+| [AutoPilot](https://github.com/lirongzzuin/autopilot) | 이메일 분류, 자동 응답, 업무 워크플로우 자동화 | Next.js 14, Supabase, Prisma |
+| [BabyGoGo](https://github.com/lirongzzuin/babygogo) | 내 주변 유아 동반 가능 장소 위치 기반 검색 | Next.js 14, Supabase, PostGIS, PWA |
+| [돌봄다리](https://github.com/lirongzzuin/dolbomdari) | 가족 돌봄 인력과 수요자 매칭 | Astro 5, Cloudflare D1/R2/KV, Claude API |
+| [소확잼](https://github.com/lirongzzuin/fortune-hub) | 운세·테스트·퀴즈 콘텐츠 웹 서비스. 실서비스 운영 중 | Next.js 14, Supabase, AdSense |
+| 자동매매 시스템 | 국내·해외 주식 및 암호화폐 거래소 API 연동 자동매매·모니터링. 장애 시 알림, 테스트 코드, 컨테이너 배포 적용 | Python, TypeScript, Docker, Fly.io, Oracle Cloud |
+
+<details>
+<summary>그 외 프로젝트</summary>
+
+| 프로젝트 | 내용 | 기술 |
+|---|---|---|
+| [짠내왕](https://github.com/lirongzzuin/jjannaewang) | 최저가 추적·절약 팁 공유 | Next.js, Supabase, Upstash Redis |
+| [취향영수증](https://github.com/lirongzzuin/receipt-recap) | 소비 기록을 영수증 형태로 시각화 | Next.js 15, Prisma, Neon DB, Toss Payments |
+| [Upbit Bot](https://github.com/lirongzzuin/upbit-bot) | 시장 상황(레짐) 판단 기반 자동매매 | TypeScript, Node.js |
+| [Binance Futures Bot](https://github.com/lirongzzuin/binance-futures-bot) | 선물 자동매매, Slack 알림 | Python, Docker |
+| [Bybit Futures Bot](https://github.com/lirongzzuin/bybit-futures-bot) | 멀티 전략 자동매매, 355개 이상 테스트 | Python, Docker, Fly.io |
+| [Crypto Auto Trade](https://github.com/lirongzzuin/Crypto_Auto_Trade_for_Upbit_and_Binance) | 암호화폐 시장 모니터링 자동화 | Python |
+| [TrendHive](https://github.com/lirongzzuin/TrendHive) | 트렌드 공유·댓글 플랫폼 (JWT 인증, Docker) | Java, Spring Boot, MySQL |
+| [FastChat](https://github.com/lirongzzuin/FastChat) | WebSocket 실시간 채팅 | Java, Spring Boot |
+| [FlashPay](https://github.com/lirongzzuin/FlashPay) | 결제 트랜잭션 처리 구조 설계 | Java, Spring Boot |
+| [MoodPress](https://github.com/lirongzzuin/moodpress) | 감정 기반 문장 생성·공유 | TypeScript, Next.js |
+| [BlameDetector](https://github.com/lirongzzuin/blame-detector) | 대화 스크린샷 기반 과실 분석 | JavaScript |
+
+</details>
+
+---
+
+## Skills
+
+| 분류 | 내용 |
+|---|---|
+| 기술지원 · 운영 | 이슈 재현·분석, 로그 확인, API 테스트(Postman, Swagger), Jira 이슈 관리, 기술 문서 작성 |
+| Backend | Java, Spring Boot, JPA, REST API, JWT, Node.js, TypeScript |
+| Database | MySQL, MariaDB, PostgreSQL, SQLite, Supabase, Cloudflare D1 |
+| Infra | Linux, Shell, Docker, Nginx, GitHub Actions, AWS (EC2/S3), Cloudflare (Workers/Pages/KV/R2), Vercel, Fly.io |
+| Frontend | Next.js, React, Astro, Cordova |
+| Automation · AI | Python, Claude Code, Claude API, Discord/Slack 봇, 외부 API 연동 |
 
 ---
 
 ## Study & Notes
 
-| 저장소 | 내용 |
-|---|---|
-| [coding-test-prep](https://github.com/lirongzzuin/coding-test-prep) | 알고리즘·자료구조 풀이 정리 |
-| [cs-study](https://github.com/lirongzzuin/cs-study) | OS, DB, Network 등 CS 이론 정리 |
-| [What_I_Learned](https://github.com/lirongzzuin/What_I_Learned) | 실무 이슈·해결 과정·설계 의도 기록 |
+- [What_I_Learned](https://github.com/lirongzzuin/What_I_Learned) · 실무에서 만난 이슈와 해결 과정 기록
+- [cs-study](https://github.com/lirongzzuin/cs-study) · OS, DB, Network 정리
+- [coding-test-prep](https://github.com/lirongzzuin/coding-test-prep) · 알고리즘·자료구조 풀이
 
 ---
 
-## Contact
-
-📍 경기도, 대한민국 · ✉️ younggyun12@hotmail.com
-
-[GitHub](https://github.com/lirongzzuin) · [LinkedIn](https://www.linkedin.com/in/younggyunlee) · [Notion Portfolio](https://swamp-force-6e6.notion.site/Developer-YG-s-289e71bb7258468fb045b6d70b54eb10)
+경기도 안양 · younggyun12@hotmail.com · [LinkedIn](https://www.linkedin.com/in/younggyunlee)
