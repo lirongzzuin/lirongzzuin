@@ -22,7 +22,7 @@ Technical Support Engineer · 백엔드 개발 경험 기반 기술지원 · 업
 ## Experience
 
 ### 두핸즈 (DoHands) · 제품팀 기술지원 엔지니어
-2026.03 ~ 현재 · 풀필먼트 SaaS (핸디봇 · 바이스)
+2026.03 ~ 현재 · 풀필먼트 SaaS (VISE)
 
 - 고객사 기술 문의 접수, 재현, 원인 분석 및 답변
 - 이슈를 버그 / 기능개선 / 기능요청으로 분류해 개발팀 백로그(Jira)에 등록하고 처리 상황 추적
@@ -78,7 +78,6 @@ Technical Support Engineer · 백엔드 개발 경험 기반 기술지원 · 업
 |---|---|---|
 | [오피스텔 방문차량 관리](https://github.com/lirongzzuin/officetel-visitor-parking) | 입주민이 휴대폰으로 방문차량을 등록하면 관리사무소 PC 의 에이전트가 기존 주차관제 프로그램 DB 에 반영. 현장 방문이 1~2회뿐이라 진단 도구로 DB 형식을 원격 확인하고, dry-run·자동 업데이트·롤백으로 원격 운영하도록 설계 (실제 건물 적용용, 공개 사본) | Next.js, Supabase, Python, MS Access(ODBC), GitHub Actions |
 | [BabyGoGo](https://github.com/lirongzzuin/babygogo) | 내 주변 유아 동반 가능 장소 위치 기반 검색. 카카오·구글·네이버 API 교차 활용, API 비용 제어 설계 | Next.js 14, Supabase, PostGIS, PWA |
-| [Bybit 선물 자동매매 v2](https://github.com/lirongzzuin/bybit-futures-bot-v2) | 1시간봉 추세 + 5분봉 진입, 1초 주기 포지션 관리. 실거래·페이퍼 데이터를 분석해 v6 → v17.5 까지 개선 (테스트 105개) | Python, Bybit API, Docker, Fly.io |
 | [KIS Trading Alert Bot](https://github.com/lirongzzuin/KIS_Discord_Alert_Bot) | 한국투자증권 OpenAPI 로 체결·자산 변동, ETF 브리핑을 Discord·Telegram 으로 알림 (Fly.io 에 배포해 운영, 현재 중지) | Python, KIS OpenAPI, Discord API |
 
 <details>
@@ -92,7 +91,6 @@ Technical Support Engineer · 백엔드 개발 경험 기반 기술지원 · 업
 | [AutoPilot](https://github.com/lirongzzuin/autopilot) | AI 업무 보조 SaaS 프로토타입. 멀티 AI 모델 라우터(BYOK·폴백·비용 기록), API 키 암호화 보관 | Next.js 14, Supabase, Prisma |
 | [YiwuGo Korea](https://github.com/lirongzzuin/yiwugo-korea) | 중국 이우 도매시장 상품을 한국어로 탐색하는 크로스보더 쇼핑몰 프로토타입 (외부 Open API 연동) | Next.js, NestJS, Expo |
 | [World Leaders Missile Volley](https://github.com/lirongzzuin/world-leaders-missile-volley) | 피카츄 배구 오마주 2D 풍자 대전 게임. 클라이언트·서버 공용 물리 모듈, 고정 타임스텝 | Next.js, Canvas, Socket.io |
-| [Upbit Bot](https://github.com/lirongzzuin/upbit-bot) · [Bybit v1](https://github.com/lirongzzuin/bybit-futures-bot) · [Binance](https://github.com/lirongzzuin/binance-futures-bot) | 현물·선물 자동매매. 거래소 계층 분리, 단계적 손실 차단, 백테스트 | TypeScript, Python |
 | [취향영수증](https://github.com/lirongzzuin/receipt-recap) | 콘텐츠 소비 기록을 영수증 형태로 시각화 | Next.js 15, Prisma, Neon DB, Toss Payments |
 | [Job Recommend Bot](https://github.com/lirongzzuin/job-recommend-bot) | 채용 공고를 매일 수집해 조건에 맞는 공고만 추려서 알림 | JavaScript |
 | [TrendHive](https://github.com/lirongzzuin/TrendHive) | 트렌드 공유·댓글 플랫폼 (JWT 인증, Docker) | Java, Spring Boot, MySQL |
@@ -103,6 +101,13 @@ Technical Support Engineer · 백엔드 개발 경험 기반 기술지원 · 업
 | [BlameDetector](https://github.com/lirongzzuin/blame-detector) | 대화 스크린샷 기반 과실 분석 | JavaScript |
 
 </details>
+
+### 코인 자동매매 봇
+
+| 프로젝트 | 내용 | 기술 |
+|---|---|---|
+| [Bybit 선물 자동매매 v2](https://github.com/lirongzzuin/bybit-futures-bot-v2) | 1시간봉 추세 + 5분봉 진입, 1초 주기 포지션 관리. 실거래·페이퍼 데이터를 분석해 v6 → v17.5 까지 개선 (테스트 105개) | Python, Bybit API, Docker, Fly.io |
+| [Upbit Bot](https://github.com/lirongzzuin/upbit-bot) · [Bybit v1](https://github.com/lirongzzuin/bybit-futures-bot) · [Binance](https://github.com/lirongzzuin/binance-futures-bot) | 현물·선물 자동매매. 거래소 계층 분리, 단계적 손실 차단, 백테스트 | TypeScript, Python |
 
 ---
 
